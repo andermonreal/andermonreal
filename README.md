@@ -79,6 +79,8 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/discord%20-%23F37626.svg?logo=discord&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 
  ### 👉 Others
