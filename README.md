@@ -89,11 +89,8 @@
  </p>
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Profile Stats
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
 	  <img alt="Ander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andermonreal&show_icons=true&count_private=true&theme=algolia" height="192px"/>
@@ -101,7 +98,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
 
 <br/>
