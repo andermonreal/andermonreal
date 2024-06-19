@@ -53,10 +53,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -74,6 +70,8 @@
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker?logo=Docker&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -82,8 +80,13 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord?logo=Discord&logoColor=white"></a>
 </p>
 
+ ### 👉 Others
+ <p>
+	 <img src="https://skillicons.dev/icons?i=docker,figma,github,md,nodejs,postman,react&perline=14" />
+ </p>
 <br/>
 
 ## 📊 Github Stats (Expand to View) 
