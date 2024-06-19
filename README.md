@@ -85,7 +85,7 @@
 
  ### 👉 Others
  <p align="center">
-	 <img src="https://skillicons.dev/icons?i=docker,figma,github,md,nodejs,postman,react,jupyter&perline=14" />
+	 <img src="https://skillicons.dev/icons?i=docker,figma,github,md,nodejs,postman,react&perline=14" />
  </p>
 <br/>
 
