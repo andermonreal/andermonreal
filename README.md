@@ -70,22 +70,20 @@
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker?logo=Docker&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%23F37626.svg?logo=docker&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord?logo=Discord&logoColor=white"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/discord%20-%23F37626.svg?logo=discord&logoColor=white"></a>
 </p>
 
  ### 👉 Others
  <p align="center">
-	 <img src="https://skillicons.dev/icons?i=docker,figma,github,md,nodejs,postman,react&perline=14" />
+	 <img src="https://skillicons.dev/icons?i=docker,figma,github,md,nodejs,postman,react,jupyter&perline=14" />
  </p>
 <br/>
 
